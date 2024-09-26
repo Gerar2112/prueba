@@ -8,6 +8,9 @@ System.out.println("Gerardo");
 
 
 String nombre = "gerardo";
+
+System.out.println(nombre);
+
 	} 
 
 }
